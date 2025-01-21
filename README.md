@@ -1,2 +1,2 @@
 # KNFO_projects
-# Projekty z koła naukowego fizyki obliczeniowej politechniki poznańskiej
+## Projekty z koła naukowego fizyki obliczeniowej politechniki poznańskiej
